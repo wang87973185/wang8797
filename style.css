@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+
+.row.footerbg .col-lg-12 .row.footerse {
+	text-align: right;
+}
+
+.head{
+	padding-right: 175px;
+}
+.container.footer{
+	width: 960px;
+	margin-left: 20px;
+}
+.qqq p{
+	color: #FFFFFF;
+	margin-top: 15px;
+}
+.ccc p{
+	color: #FFFFFF;
+	margin-top: 10px;
+}
+.nnn{
+    padding-right: 200px;
+}
+.container.map {
+	padding-right: 300px;
+}
+.pict {
+
+
+
+}
+.www {
+	text-align: center;
+}
+.qqqq p{
+	color: #B99662;
+}
+
+.lll{
+	padding-top: 20px;
+	width: 900px;
+
+}
